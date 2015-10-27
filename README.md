@@ -32,7 +32,7 @@ Notes
 ============
 
 * Node Modules were checked in due to a problem with cap's node-gyp rebuild script not installing properly through npm
-* On button press, I use [opne](https://github.com/pwnall/node-open) to open a new Netflix window when the dash button is pressed, but you can use this event to do any number of things such as POSTing to a Google Sheet, interacting with Philips Hue bulbs, etc.  Have fun!
+* On button press, I use [open](https://github.com/pwnall/node-open) to open a new Netflix window when the dash button is pressed, but you can use this event to do any number of things such as POSTing to a Google Sheet, interacting with Philips Hue bulbs, etc.  Have fun!
 
 
  
