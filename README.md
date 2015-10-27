@@ -1,7 +1,7 @@
 ![pic](http://learnbonds.com/wp-content/uploads/AmazonDash.jpg)
 
 # node-amazon-dash-button-windows
-cap -based windows node project to trigger event on press of amazon dash button
+node app that triggers event on press of amazon dash button.  Built on top of [cap](https://github.com/mscdex/cap).
 
 Description
 ===========
@@ -32,6 +32,7 @@ Notes
 ============
 
 * Node Modules were checked in due to a problem with cap's node-gyp rebuild script not installing properly through npm
+* On button press, I use [opne](https://github.com/pwnall/node-open) to open a new Netflix window when the dash button is pressed, but you can use this event to do any number of things such as POSTing to a Google Sheet, interacting with Philips Hue bulbs, etc.  Have fun!
 
 
  
