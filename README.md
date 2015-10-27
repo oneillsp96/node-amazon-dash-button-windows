@@ -1,4 +1,4 @@
-[](http://techliveinfo.com/wp-content/uploads/2015/04/Few-Available-Dash-Button-Products-in-Amazon-Online-Retailer.jpg)
+![pic](http://techliveinfo.com/wp-content/uploads/2015/04/Few-Available-Dash-Button-Products-in-Amazon-Online-Retailer.jpg)
 
 # node-amazon-dash-button-windows
 cap -based windows node project to trigger event on press of amazon dash button
