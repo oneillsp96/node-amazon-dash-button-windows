@@ -20,6 +20,7 @@ Install
 ============
 
     git clone
+    change MAC address (see Setup below)
     node app.js
     
 Setup 
